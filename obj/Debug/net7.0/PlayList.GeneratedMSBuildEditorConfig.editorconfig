@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PlayList
+build_property.RootNamespace = PlayList
+build_property.ProjectDir = c:\Users\minhh\.vscode\PlayList\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\minhh\.vscode\PlayList
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/BaiHat/EnterBaiHat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpSGF0XEVudGVyQmFpSGF0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/BaiHat/InsertBaiHat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpSGF0XEluc2VydEJhaUhhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/CaSi/ListCaSi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FTaVxMaXN0Q2FTaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/PlayLists/DeletePlayList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheUxpc3RzXERlbGV0ZVBsYXlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/PlayLists/EnterNN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheUxpc3RzXEVudGVyTk4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/PlayLists/ListPlayList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheUxpc3RzXExpc3RQbGF5TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/PlayLists/ViewPlayList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheUxpc3RzXFZpZXdQbGF5TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/minhh/.vscode/PlayList/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v6uc3atz0g

@@ -1,0 +1,14 @@
+@model IEnumerable<NguoiNghe>
+@{
+    <form action="/PlayLists/ListPLayList" method="post" onChange="frmTest.submit();">
+    <label for="TenNN">Tên Người Nghe</label>
+    <select name="MaNN" id="TenNN">
+        @foreach (var item in Model)
+        { 
+            <option value="@item.MaNN">@item.TenNN </option>     
+        }
+    </select><br>
+    <input type="Submit" value="Tìm"> 
+</form>
+    
+}

@@ -1,0 +1,36 @@
+@using PlayList.Models;
+@model  IEnumerable<CaSi>
+@{
+    ViewData["Title"] = "Tìm Ca sĩ";
+    <form action="/CaSi/ListCaSi" method="get">
+    <label for="NamSinh">Ngày Sinh</label><input type="date" name="ns" id="ns"/><br>
+     <input type="submit" name="submit" value="Liệt kê" />
+    </form>
+    <p>Danh sách ca sĩ</p>   
+        @if(Model!=null){
+            if(Model.Count()>0){
+                    int i=1;
+                    <table border="1">
+                        <tr>
+                            <th>STT</th>
+                            <th>Tên ca sĩ</th>
+                        </tr>
+        
+                        @foreach (var item in Model){
+                            
+                            <tr>
+                                <td>@i</td>
+                                <td>@item.TenCaSi</td>
+                            </tr>
+                            i++;
+                        }
+       
+
+                    </table>
+                
+            }
+            else{
+                <p>@ViewData["ThongBao"]</p>
+            }
+        }
+}

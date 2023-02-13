@@ -1,0 +1,16 @@
+@using PlayList.Models;
+@model IEnumerable<PlayListViewModel>;
+@{
+    <table border="1">
+        <tr>
+            <th>Tên Bài hát</th>
+            <th>Tên ca sĩ </th>
+        </tr>
+        @foreach(var d in Model){
+            <tr>
+                <td>@d.TenBaiHat</td>
+                <td>@d.TenCaSi</td>
+            </tr>
+        }
+    </table>
+}
